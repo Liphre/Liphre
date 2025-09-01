@@ -21,15 +21,6 @@ Buscando estágio/ oportunidades em back-end e IA aplicada.
 
 **Outros**: Linux
 
-### 🏷️ Linguagens e Estatísticas
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-<img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white"/>
-
-![Filipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liphre&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Liphre&layout=compact&theme=radical)
-
 ### 🧩 Projetos em destaque
 - **Família Conectada — Sistema de Monitoramento Escolar**  
   Projeto acadêmico desenvolvido em Python com PyQt5 e MySQL, permitindo aos pais monitorar o desempenho escolar de seus filhos. Funcionalidades incluem:
