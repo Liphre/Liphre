@@ -11,7 +11,6 @@ Buscando estágio/ oportunidades em back-end e IA aplicada.
 ### 🚀 Sobre mim
 - 🎯 Interesses: back-end, bancos NoSQL, sistemas operacionais e IA aplicada.
 - 🧩 Gosto de resolver problemas com código limpo.
-- 📚 Atualmente estudando: Python, C, C#, Java, JavaScript/HTML/CSS, MySQL, PostgreSQL.
 - 📫 Contato: <Filipebarbosamonfardini@gmail.com> · <a href="https://www.linkedin.com/in/filipe-barbosa-monfardini-650ba7129/">LinkedIn</a>
 
 ### 🛠️ Tecnologias
