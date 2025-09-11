@@ -40,18 +40,7 @@ Buscando estágio
 
   [Código](https://github.com/Liphre/uvv_bd_1_cc1n)
 
-### 📊 Estatísticas dos projetos
-<p>
-<img alt="Commits Família Conectada" src="https://img.shields.io/github/commit-activity/m/Liphre/Projeto-Extensao"/>
-<img alt="Issues Família Conectada" src="https://img.shields.io/github/issues/Liphre/Projeto-Extensao?label=issues abertas"/>
-<img alt="PRs Família Conectada" src="https://img.shields.io/github/issues-pr/Liphre/Projeto-Extensao?label=PRs"/>
-</p>
 
-<p>
-<img alt="Commits PSET 1" src="https://img.shields.io/github/commit-activity/m/Liphre/uvv_bd_1_cc1n"/>
-<img alt="Issues PSET 1" src="https://img.shields.io/github/issues/Liphre/uvv_bd_1_cc1n?label=issues abertas"/>
-<img alt="PRs PSET 1" src="https://img.shields.io/github/issues-pr/Liphre/uvv_bd_1_cc1n?label=PRs"/>
-</p>
 
 ### 📫 Como posso ajudar
 Se curtir algum projeto, abra uma *issue* com dúvida/ideia ou um *pull request* com melhorias.
