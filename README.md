@@ -3,7 +3,7 @@
 <p align="center">
 Estudante de Ciência da Computação (4º período) | Foco em Desenvolvimento de Software
 <br/>
-Buscando estágio/ oportunidades em back-end e IA aplicada.
+Buscando estágio
 </p>
 
 ---
