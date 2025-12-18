@@ -11,7 +11,7 @@ Buscando estágio
 ### 🚀 Sobre mim
 - 🎯 Interesses: back-end, bancos NoSQL, sistemas operacionais e IA aplicada.
 - 🧩 Gosto de resolver problemas com código limpo.
-- 📫 Contato: <Filipebarbosamonfardini@gmail.com> · <a href="https://www.linkedin.com/in/filipe-barbosa-monfardini-650ba7129/">LinkedIn</a>
+- 📫 Contato: <Filipebarbosamonfardini@gmail.com> · <a href="https://www.linkedin.com/in/filipe-barbosa-monfardini-91a76631a/">LinkedIn</a>
 
 ### 🛠️ Tecnologias
 **Linguagens**: Python · C · C# · Java (POO básica) · JavaScript/HTML/CSS (básico)
